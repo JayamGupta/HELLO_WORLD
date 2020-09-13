@@ -1,2 +1,1 @@
-# HELLO_WORLD
-Just a simple program
+print("Hello World")
